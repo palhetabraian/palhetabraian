@@ -1,16 +1,22 @@
-## Hi there 👋
+👨‍💻 Braian Nickolas Teixeira Palheta
+Full Stack Developer | React | React Native | Node.js | 
 
-<!--
-**palhetabraian/palhetabraian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Sobre mim
+Busco minha primeira oportunidade na área techn, onde possa aplicar meus conhecimentos em tecnologias Full Stack e banco de dados, especializado em aplicações web e mobile modernas, escaláveis e de alto desempenho.
+Apaixonado por tecnologia, tenho foco em boas práticas, código limpo e experiências de usuário intuitivas.
 
-Here are some ideas to get you started:
+💡 Busco constantemente aprimorar habilidades técnicas e entregar soluções de impacto que unem performance, escalabilidade e design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em projetos integradores.
+
+🚀 Habilidades Técnicas
+💻 Front-end
+React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
+TailwindCSS, Styled-components,
+Testes com Jest
+⚙️ Back-end
+Node.js, Express, NestJS
+🧩 DevOps e Ferramentas
+Git, GitHub
+🗃️ Banco de Dados 
+Sql
