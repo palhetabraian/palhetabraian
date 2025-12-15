@@ -11,12 +11,15 @@ Apaixonado por tecnologia, tenho foco em boas práticas, código limpo e experi�
 
 # 🚀 Habilidades Técnicas
 # 💻 Front-end
-React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript
-TailwindCSS, Styled-components,
-Testes com Jest
+* **React.js, React Native**
+* **JavaScript (ES6+), TypeScript**
+* HTML5, CSS3
+* TailwindCSS, Styled-components
+* Testes com Jest
 # ⚙️ Back-end
-Node.js, Express, NestJS
-# 🧩 DevOps e Ferramentas
-Git, GitHub
+* **Node.js**
+* Express, NestJS
 # 🗃️ Banco de Dados 
-Sql
+* SQL
+# 🧩 DevOps e Ferramentas
+* Git, GitHub
