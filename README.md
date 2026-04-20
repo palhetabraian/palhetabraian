@@ -1,5 +1,5 @@
 # 👨‍💻 Braian Nickolas Teixeira Palheta
-Full Stack Developer | React | React Native | Node.js | 
+Full Stack Developer | React | Node.js | 
 
 # 🧠 Sobre mim
 Busco minha primeira oportunidade na área tech, onde possa aplicar meus conhecimentos em tecnologias Full Stack e banco de dados, especializado em aplicações web e mobile modernas, escaláveis e de alto desempenho.
@@ -11,7 +11,7 @@ Apaixonado por tecnologia, tenho foco em boas práticas, código limpo e experi�
 
 # 🚀 Habilidades Técnicas
 # 💻 Front-end
-* **React.js, React Native**
+* **React.js
 * **JavaScript (ES6+), TypeScript**
 * HTML5, CSS3
 * TailwindCSS, Styled-components
