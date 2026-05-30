@@ -1,25 +1,56 @@
 # 👨‍💻 Braian Nickolas Teixeira Palheta
-Full Stack Developer | React | Node.js | 
 
-# 🧠 Sobre mim
-Busco minha primeira oportunidade na área tech, onde possa aplicar meus conhecimentos em tecnologias Full Stack e banco de dados, especializado em aplicações web e mobile modernas, escaláveis e de alto desempenho.
-Apaixonado por tecnologia, tenho foco em boas práticas, código limpo e experiências de usuário intuitivas.
+**Full Stack Developer | React | Node.js | TypeScript**
 
-💡 Busco constantemente aprimorar habilidades técnicas e entregar soluções de impacto que unem performance, escalabilidade e design.
+## 🧠 Sobre mim
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas com experiência prática em projetos integradores.
+Engenheiro de Software Full Stack com foco em Back-end, com experiência prática no desenvolvimento de aplicações web utilizando React, TypeScript, Node.js e SQL.
 
-# 🚀 Habilidades Técnicas
-# 💻 Front-end
-* **React.js
-* **JavaScript (ES6+), TypeScript**
-* HTML5, CSS3
-* TailwindCSS, Styled-components
-* Testes com Jest
-# ⚙️ Back-end
-* **Node.js**
-* Express, NestJS
-# 🗃️ Banco de Dados 
-* SQL
-# 🧩 DevOps e Ferramentas
-* Git, GitHub
+Tenho atuado na construção de APIs REST, sistemas de autenticação, integração entre front-end e back-end, manipulação de bancos de dados e desenvolvimento de aplicações completas seguindo boas práticas de programação.
+
+Sou apaixonado por tecnologia e estou em constante evolução, aprofundando meus conhecimentos em desenvolvimento back-end, arquitetura de software, TypeScript e construção de aplicações escaláveis. Busco criar soluções bem estruturadas, com código limpo, manutenção facilitada e foco na experiência do usuário.
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e venho aplicando meus conhecimentos em projetos acadêmicos e pessoais, desenvolvendo aplicações que envolvem front-end, back-end, banco de dados e versionamento de código.
+
+---
+
+## 🚀 Habilidades Técnicas
+
+### 💻 Backend
+
+* APIs REST
+* Comunicação Assíncrona
+* Banco de Dados: PostgreSQL, MySQL, SQLite
+* Linguagens: JavaScript
+* Frameworks e Tecnologias: TypeScript, Node.js
+
+### 🎨 Front-end
+
+* Linguagens: JavaScript, TypeScript, HTML, CSS
+* Frameworks: React, React Native
+* Estilização: Tailwind CSS, Styled Components
+
+### ⚙️ DevOps
+
+* Contêineres e Ambientes: Docker
+* Versionamento: Git, GitHub
+
+### 🤖 Ferramentas de IA
+
+* Claude Code
+* GitHub Copilot
+* Skills, Docs e Commands
+
+### 🤝 Soft Skills
+
+* Comunicação e Storytelling
+* Falar em público
+* Resolução de problemas
+* Trabalho em equipe
+
+---
+
+## 📫 Contato
+
+* GitHub: https://github.com/palhetabraian
+* LinkedIn: [www.linkedin.com/in/braiannickolas](http://www.linkedin.com/in/braiannickolas)
